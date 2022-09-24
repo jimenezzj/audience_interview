@@ -1,0 +1,17 @@
+{
+  "name": "audience_interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cat test_input | node index.js",
+    "test_2": "cat test_input_2 | node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "lodash": "^4.17.21"
+  }
+}
